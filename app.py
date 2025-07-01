@@ -367,4 +367,4 @@ elif page == "Sentiment Map":
 # Footer
 st.markdown(
     "<hr><center><small>Made with ❤️ by Ramokhele Manyeli using Streamlit, NewsAPI, and NLP.<br>"
-    "Try different cities
+    "Try different cities!</small></center></hr>", unsafe_allow_html=True)

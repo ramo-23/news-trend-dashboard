@@ -1,0 +1,12 @@
+streamlit
+requests
+pandas
+nltk
+spacy
+scikit-learn
+plotly
+wordcloud
+python-dotenv
+textblob
+bertopic
+sentence-transformers
